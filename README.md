@@ -9,4 +9,4 @@ The notes I created and used to study for the AWS Certified Cloud Practitioner e
 | Chapter 4: Seeing the Big Picture   | [Chapter Four](./Chapters/Chapter%20Four.md) |
 | Chapter 5: IAM: Managing Users, Groups, and Roles   | [Chapter Five](./Chapters/Chapter%20Five.md) |
 | Chapter 6: Chapter Six: Virtual Private Cloud   | [Chapter Six](./Chapters/Chapter%20Six.md) |
-| Chapter 7: Chapter Seven: Elastic Compute Cloud (EC2)   | [Chapter Six](./Chapters/Chapter%20Seven.md) |
+| Chapter 7: Chapter Seven: Elastic Compute Cloud (EC2)   | [Chapter Seven](./Chapters/Chapter%20Seven.md) |
