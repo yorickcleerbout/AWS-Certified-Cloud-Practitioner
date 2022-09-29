@@ -12,3 +12,4 @@ The notes I created and used to study for the AWS Certified Cloud Practitioner e
 | Chapter 7: Chapter Seven: Elastic Compute Cloud (EC2)   | [Chapter Seven](./Chapters/Chapter%20Seven.md) |
 | Chapter 8: Chapter Eight: AWS Storage Services   | [Chapter Eight](./Chapters/Chapter%20Eight.md) |
 | Chapter 9: Chapter Nine: ELB and Auto Scaling   | [Chapter Nine](./Chapters/Chapter%20Nine.md) |
+| Chapter 10: Chapter Ten: CloudFront and DNS   | [Chapter Ten](./Chapters/Chapter%20Ten.md) |
