@@ -17,3 +17,4 @@ The notes I created and used to study for the AWS Certified Cloud Practitioner e
 | Chapter 12: Chapter Twelve: Notification Services   | [Chapter Twelve](./Chapters/Chapter%20Twelve.md) |
 | Chapter 13: Chapter Thirteen: SQL and NoSQL   | [Chapter Thirteen](./Chapters/Chapter%20Thirteen.md) |
 | Chapter 14: Chapter Fourteen: Serverless   | [Chapter Fourteen](./Chapters/Chapter%20Fourteen.md) |
+| Chapter 15: Chapter Fifteen: Security and Compliance Services   | [Chapter Fifteen](./Chapters/Chapter%20Fifteen.md) |
