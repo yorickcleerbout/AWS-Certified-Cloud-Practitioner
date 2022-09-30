@@ -15,3 +15,4 @@ The notes I created and used to study for the AWS Certified Cloud Practitioner e
 | Chapter 10: Chapter Ten: CloudFront and DNS   | [Chapter Ten](./Chapters/Chapter%20Ten.md) |
 | Chapter 11: Chapter Eleven: Monitoring and Logging   | [Chapter Eleven](./Chapters/Chapter%20Eleven.md) |
 | Chapter 12: Chapter Twelve: Notification Services   | [Chapter Twelve](./Chapters/Chapter%20Twelve.md) |
+| Chapter 13: Chapter Thirteen: SQL and NoSQL   | [Chapter Thirteen](./Chapters/Chapter%20Thirteen.md) |
