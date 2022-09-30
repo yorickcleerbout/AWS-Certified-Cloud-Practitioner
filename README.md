@@ -19,3 +19,4 @@ The notes I created and used to study for the AWS Certified Cloud Practitioner e
 | Chapter 14: Chapter Fourteen: Serverless   | [Chapter Fourteen](./Chapters/Chapter%20Fourteen.md) |
 | Chapter 15: Chapter Fifteen: Security and Compliance Services   | [Chapter Fifteen](./Chapters/Chapter%20Fifteen.md) |
 | Chapter 16: Chapter Sixteen: Other Noteworthy AWS Services   | [Chapter Sixteen](./Chapters/Chapter%20Sixteen.md) |
+| Chapter 17: Chapter Seventeen: AWS Pricing, Billing, and Support Services   | [Chapter Seventeen](./Chapters/Chapter%20Seventeen.md) |
