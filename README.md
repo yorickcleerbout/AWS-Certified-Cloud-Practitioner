@@ -1,4 +1,10 @@
 # AWS-Certified-Cloud-Practitioner
+
+### Verify my certificate
+https://www.credly.com/badges/faefa194-c759-486a-a093-43d2cbc9b750/public_url
+
+![Cert](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+
 The notes I created and used to study for the AWS Certified Cloud Practitioner exam! (use at your own risk)
 
 | Chapter      | Link |
